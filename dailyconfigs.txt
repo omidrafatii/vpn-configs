@@ -30,3 +30,10 @@ trojan://telegram-id-privatevpns@35.181.35.245:22222?security=tls&sni=trojan.miw
 vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80?encryption=none&security=none&type=ws&host=wEbroVers1.TURKabr.ir&path=%2Fwebrovers#omid
 trojan://telegram-id-privatevpns@51.21.142.154:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#omid
 trojan://telegram-id-privatevpns@54.73.249.105:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#omid
+trojan://UJRra3tbVx@78.109.193.161:50816?security=tls&sni=free.atlasdn3.sbs&alpn=h2%2Chttp%2F1.1&type=http&path=%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN%20%40Atlas_DN#Omid2%2F25
+vless://f4360b31-8248-4741-af76-9f72b78c5d14@78.109.193.161:38197?encryption=none&security=none&type=tcp&headerType=http#Omid2%2F25
+vless://5d3d25fa-e1b3-4029-83cb-b62959b2dfff@31.47.45.138:34695?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Omid2%2F25
+vless://8f8acb81-f1b7-4ab3-80a9-ebc1b166853a@62.60.147.23:12345?encryption=none&security=tls&sni=taj.shoptaj.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#Omid2%2F25
+vless://b4f165a2-69e9-43b8-823d-c7a88860c35b@95.38.245.89:8590?encryption=none&security=none&type=tcp&headerType=none#Omid2%2F25
+vless://2ca415bc-4eef-467f-9392-85ab014c758e@185.208.78.147:22248?encryption=none&security=none&type=ws&path=%2F#Omid2%2F25
+vless://3e274884-4599-4682-846a-5790d93cb7a0@104.25.73.28:80?encryption=none&security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#Omid2%2F25
