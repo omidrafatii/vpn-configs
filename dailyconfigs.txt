@@ -136,3 +136,4 @@ vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?encryption=none&s
 vless://b307d1af-4285-4b80-945d-d3eded6f6646@185.146.173.58:2095?encryption=none&security=none&type=ws&host=hjkma.numall.xyz.&path=%2F#Sevgi%2C%20bir%20kere%20gelir%2C%20bir%20daha%20gitmez
 vless://c47b77b2-ef5a-41c4-a2f1-d752fc5ac65a@185.146.173.58:2095?encryption=none&security=none&type=ws&host=shjhjb.servernet.cfd.&path=%2F#Sevgi%2C%20bir%20kere%20gelir%2C%20bir%20daha%20gitmez
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?encryption=none&security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#Sevgi%2C%20bir%20kere%20gelir%2C%20bir%20daha%20gitmez
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#ey%20baba
